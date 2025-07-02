@@ -47,14 +47,7 @@ This project presents a Tableau-based exploration of dietary trends, nutrition b
 ---
 
 ## 🛠 Tools Used
-
+- Microsoft Excel for data pre-processesing.
 - Tableau (visualizations & dashboard creation)  
-- Python (data preprocessing & visualization samples for documentation)  
-- Pandas, Seaborn, Matplotlib (supportive libraries)
 
----
-
-## 📷 Sample Visuals
-
-_Include key screenshots of the dashboards here in your repo:_
 
